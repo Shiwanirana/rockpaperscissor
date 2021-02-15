@@ -1,0 +1,16 @@
+C:\source\codeworks\winter20\rockpaperscissor\bin\Debug\net5.0\rockpaperscissor.exe
+C:\source\codeworks\winter20\rockpaperscissor\bin\Debug\net5.0\rockpaperscissor.deps.json
+C:\source\codeworks\winter20\rockpaperscissor\bin\Debug\net5.0\rockpaperscissor.runtimeconfig.json
+C:\source\codeworks\winter20\rockpaperscissor\bin\Debug\net5.0\rockpaperscissor.runtimeconfig.dev.json
+C:\source\codeworks\winter20\rockpaperscissor\bin\Debug\net5.0\rockpaperscissor.dll
+C:\source\codeworks\winter20\rockpaperscissor\bin\Debug\net5.0\ref\rockpaperscissor.dll
+C:\source\codeworks\winter20\rockpaperscissor\bin\Debug\net5.0\rockpaperscissor.pdb
+C:\source\codeworks\winter20\rockpaperscissor\obj\Debug\net5.0\rockpaperscissor.csprojAssemblyReference.cache
+C:\source\codeworks\winter20\rockpaperscissor\obj\Debug\net5.0\rockpaperscissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\winter20\rockpaperscissor\obj\Debug\net5.0\rockpaperscissor.AssemblyInfoInputs.cache
+C:\source\codeworks\winter20\rockpaperscissor\obj\Debug\net5.0\rockpaperscissor.AssemblyInfo.cs
+C:\source\codeworks\winter20\rockpaperscissor\obj\Debug\net5.0\rockpaperscissor.csproj.CoreCompileInputs.cache
+C:\source\codeworks\winter20\rockpaperscissor\obj\Debug\net5.0\rockpaperscissor.dll
+C:\source\codeworks\winter20\rockpaperscissor\obj\Debug\net5.0\ref\rockpaperscissor.dll
+C:\source\codeworks\winter20\rockpaperscissor\obj\Debug\net5.0\rockpaperscissor.pdb
+C:\source\codeworks\winter20\rockpaperscissor\obj\Debug\net5.0\rockpaperscissor.genruntimeconfig.cache
