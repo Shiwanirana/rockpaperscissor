@@ -15,10 +15,10 @@ namespace rockpaperscissor
             options.Add("Rock");
             options.Add("Paper");
             options.Add("Scissor");
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
-            Console.ForegroundColor = ConsoleColor.Green;
-            // bool running = true;
-            // while(running){
+            Console.BackgroundColor = ConsoleColor.DarkCyan;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            // bool choice = false;
+            // while(!choice){
                 Console.Clear();
                 Console.WriteLine(@"
                 
@@ -32,13 +32,15 @@ namespace rockpaperscissor
                                     |_|                                                                               
 
                 ");
-                Console.WriteLine(@"Rock-Paper-Scissor Game");
+                Console.WriteLine(@"                                                   Rock-Paper-Scissor Game
+                
+                ");
                 Console.WriteLine("Choose Your OPTION WISELY!!...COMPUTER can be EVIL Sometimes");
-                String userChoice = Console.ReadLine();
+                String userChoice = Console.ReadLine().ToUpper();
                 Console.WriteLine(userChoice);
                 Random r = new Random();
                 int comIndex = r.Next(3);
-                String comChoice = options[comIndex];
+                String comChoice = options[comIndex].ToUpper();
                 Console.WriteLine("And here comes the COMPUTER -->"+ comChoice);
 
             // }
@@ -48,8 +50,9 @@ namespace rockpaperscissor
             // }
             var result = userChoice == comChoice?"You both fight with same TOOLS and DIE..because there will be no winner!!":userChoice=="Rock" && comChoice == "Paper"|| userChoice=="Paper" && comChoice=="Scissor"|| userChoice=="Scissor" && comChoice=="Rock"?"Computer is the WINNER!!":"User is the WINNER";
             Console.WriteLine(result);
-
-
+            Console.WriteLine("do you want to play again? y/n");
+            string choice = Console.ReadLine();
         }
     }
+    // } 
 }
